@@ -133,9 +133,9 @@ jupyter notebook Prática1.ipynb
 
 ## 👤 Autor
 
-**Rafael Chaves**  
-Curso de Engenharia Elétrica  
-Disciplina: Processamento de Sinais I — GELE7317
+**Jean Raposo**  
+Curso de Engenharia de Controle e Automação  
+Disciplina: Processamento de Sinais I
 
 ---
 
